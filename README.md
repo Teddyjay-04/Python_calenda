@@ -22,6 +22,7 @@ This is a Python application built using the Tkinter library to display a monthl
 2. Clicking the "Show" button updates the calendar display for the specified month and year.
 3. Weekends are highlighted with a green background, while Romanian public holidays are highlighted with a red background and text.
 4. Non-existent dates (padding for weeks) are shown as blank cells.
+5. you can view the output with the python_calender.jpg
 
 ### Code Structure
 ## CalendarApp Class:
