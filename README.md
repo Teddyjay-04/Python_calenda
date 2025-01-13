@@ -33,4 +33,4 @@ This is a Python application built using the Tkinter library to display a monthl
 ## Libraries Used:
 1. tkinter: For the graphical user interface.
 2. calendar: To generate the monthly calendar layout.
-3. holidays: To fetch Romanian public holidays.
+3. holidays: To fetch Romanian public holidays..
